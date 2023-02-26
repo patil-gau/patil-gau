@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on a project Education OTT Platform MindStream **[Seekho](https://)**
+- 🔭 I’m currently working on a project Education OTT Platform **[MindStream](https://)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
