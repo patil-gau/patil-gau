@@ -1,13 +1,11 @@
 <a href="#"><img width="100%" height="auto" src="cover.png" height="175px"/></a>
 
-
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Gautam Patil</h1>
 <h3 align="center">I am ambitious Full Stack and IOT Developer</h3>
 
-
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on a project Education Social Media Application **[Seekho](https://)**
+- 🔭 I’m currently working on a project Education OTT Platform MindStream **[Seekho](https://)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
@@ -42,9 +40,7 @@
     <a href="https://flutter.dev/" target="_blank"> <img src="https://img.icons8.com/color/344/flutter.png" alt="express" width="40" height="40"/></a>   
 </p>
 
-
 <!-- <br/> -->
-
 
 <!-- ## 📊 My Github Stats -->
 
@@ -62,6 +58,7 @@
 <br/>
 
 ## Connect with me:
+
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/gautam-patil-181999164//"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
@@ -72,6 +69,7 @@
 </p>
 
 ## ❤ Views and Followers
+
 <a href="https://github.com/patil-gau/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=patil-gau">
 </a>
